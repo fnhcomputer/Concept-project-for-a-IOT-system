@@ -21,15 +21,15 @@ Information needed from tree
 # Final Prototype
 # Output sensor data
 
-2021-09-02 21:35:46 Start 
-2021-09-02 21:35:46 Soil mois.:99 %
-2021-09-02 21:35:46 Sun light : 6 ADC
-2021-09-02 21:35:46 Temperature: 23.00 C
-2021-09-02 21:35:46 Humidity: 18.00 %
-2021-09-02 21:35:46 water Dis.: 7.35 cm
-2021-09-02 21:35:46 water vol.: 890.81 ml
-2021-09-02 21:35:47 Soil Temp : 25.69 C
-2021-09-02 21:35:47 End
+    2021-09-02 21:35:46 Start 
+    2021-09-02 21:35:46 Soil mois.:99 %
+    2021-09-02 21:35:46 Sun light : 6 ADC
+    2021-09-02 21:35:46 Temperature: 23.00 C
+    2021-09-02 21:35:46 Humidity: 18.00 %
+    2021-09-02 21:35:46 water Dis.: 7.35 cm
+    2021-09-02 21:35:46 water vol.: 890.81 ml
+    2021-09-02 21:35:47 Soil Temp : 25.69 C
+    2021-09-02 21:35:47 End
 
 # Thingspeak Data store 
 

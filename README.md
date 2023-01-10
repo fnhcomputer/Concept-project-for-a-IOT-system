@@ -21,7 +21,7 @@ Information needed from tree
 # Final Prototype
 # Output sensor data
 
-2021-09-02 21:35:46 Start </>
+2021-09-02 21:35:46 Start 
 2021-09-02 21:35:46 Soil mois.:99 %
 2021-09-02 21:35:46 Sun light : 6 ADC
 2021-09-02 21:35:46 Temperature: 23.00 C

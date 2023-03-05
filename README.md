@@ -1,7 +1,8 @@
 Concept-project-for-a-IOT-system
 
 # Environment Monitoring System for Tree (EMSFT)
-
+## Concept project for a IOT system <br>
+![Concept Image image](https://github.com/fnhcomputer/Concept-project-for-a-IOT-system/blob/main/image/concept_art.jpg)
 
 Information needed from tree
 
@@ -18,7 +19,11 @@ Information needed from tree
     Air quality ( Amount of nitrogen and oxygen )
 
 # Fritzing Design
+![Fritzing design of the project](https://github.com/fnhcomputer/Concept-project-for-a-IOT-system/blob/main/image/Fritzing_design.jpg)
+
+
 # Final Prototype
+![Final prototype](https://github.com/fnhcomputer/Concept-project-for-a-IOT-system/blob/main/image/Final_01.jpg)
 # Output sensor data
 
     2021-09-02 21:35:46 Start 
